@@ -1,0 +1,236 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+3 0 obj
+<< /Length 1872 >>
+stream
+BT
+/F2 20 Tf
+1 0 0 1 54.00 738.00 Tm (Coding Interview Grading Template) Tj
+/F1 10 Tf
+1 0 0 1 54.00 690.00 Tm (Use this template to evaluate a candidate consistently after a coding interview.) Tj
+1 0 0 1 54.00 673.00 Tm (Adjust point values to fit the role, seniority, and interview format.) Tj
+/F2 16 Tf
+1 0 0 1 54.00 635.00 Tm (Candidate and Interview Details) Tj
+/F1 10 Tf
+1 0 0 1 66.00 597.00 Tm (? Candidate:) Tj
+1 0 0 1 66.00 581.00 Tm (? Role/level:) Tj
+1 0 0 1 66.00 565.00 Tm (? Interviewer:) Tj
+1 0 0 1 66.00 549.00 Tm (? Date:) Tj
+1 0 0 1 66.00 533.00 Tm (? Problem:) Tj
+1 0 0 1 66.00 517.00 Tm (? Language:) Tj
+1 0 0 1 66.00 501.00 Tm (? Interview format:) Tj
+1 0 0 1 66.00 485.00 Tm (? Final recommendation: Strong hire / Hire / Lean hire / Lean no hire / No hire) Tj
+/F2 16 Tf
+1 0 0 1 54.00 448.00 Tm (Scoring Summary) Tj
+/F1 10 Tf
+1 0 0 1 54.00 410.00 Tm (Category | Points | Score | Notes) Tj
+1 0 0 1 54.00 383.00 Tm (Problem understanding | 15 |  |) Tj
+1 0 0 1 54.00 366.00 Tm (Algorithm and approach | 20 |  |) Tj
+1 0 0 1 54.00 349.00 Tm (Code correctness | 25 |  |) Tj
+1 0 0 1 54.00 332.00 Tm (Code quality and maintainability | 15 |  |) Tj
+1 0 0 1 54.00 315.00 Tm (Testing and debugging | 10 |  |) Tj
+1 0 0 1 54.00 298.00 Tm (Communication and collaboration | 10 |  |) Tj
+1 0 0 1 54.00 281.00 Tm (Follow-up and complexity analysis | 5 |  |) Tj
+1 0 0 1 54.00 264.00 Tm (**Total** | **100** |  |) Tj
+/F2 16 Tf
+1 0 0 1 54.00 226.00 Tm (Rubric) Tj
+/F2 13 Tf
+1 0 0 1 54.00 180.00 Tm (1. Problem Understanding \(15 points\)) Tj
+/F1 10 Tf
+1 0 0 1 66.00 147.00 Tm (? Clarifies requirements, inputs, outputs, and constraints.) Tj
+1 0 0 1 66.00 131.00 Tm (? Identifies edge cases before or during implementation.) Tj
+1 0 0 1 66.00 115.00 Tm (? Restates the problem accurately and confirms assumptions.) Tj
+/F2 10 Tf
+1 0 0 1 54.00 85.00 Tm (Score guidance:) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 2731 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 66.00 737.00 Tm (? 13-15: Clear understanding with thoughtful clarifying questions.) Tj
+1 0 0 1 66.00 721.00 Tm (? 9-12: Understands the main task but misses some constraints or edge cases.) Tj
+1 0 0 1 66.00 705.00 Tm (? 5-8: Requires repeated prompting to identify core requirements.) Tj
+1 0 0 1 66.00 689.00 Tm (? 0-4: Misunderstands the problem or solves a materially different task.) Tj
+/F2 13 Tf
+1 0 0 1 54.00 655.00 Tm (2. Algorithm and Approach \(20 points\)) Tj
+/F1 10 Tf
+1 0 0 1 66.00 622.00 Tm (? Chooses an appropriate data structure and algorithm.) Tj
+1 0 0 1 66.00 606.00 Tm (? Explains tradeoffs and justifies the chosen approach.) Tj
+1 0 0 1 66.00 590.00 Tm (? Adapts when an initial approach proves insufficient.) Tj
+/F2 10 Tf
+1 0 0 1 54.00 560.00 Tm (Score guidance:) Tj
+/F1 10 Tf
+1 0 0 1 66.00 533.00 Tm (? 17-20: Efficient, well-justified approach with clear tradeoff awareness.) Tj
+1 0 0 1 66.00 517.00 Tm (? 13-16: Good approach with minor inefficiencies or gaps in explanation.) Tj
+1 0 0 1 66.00 501.00 Tm (? 8-12: Partially correct approach that needs significant interviewer guidance.) Tj
+1 0 0 1 66.00 485.00 Tm (? 0-7: Ineffective approach or no coherent strategy.) Tj
+/F2 13 Tf
+1 0 0 1 54.00 451.00 Tm (3. Code Correctness \(25 points\)) Tj
+/F1 10 Tf
+1 0 0 1 66.00 418.00 Tm (? Produces code that solves the stated problem.) Tj
+1 0 0 1 66.00 402.00 Tm (? Handles typical cases and important edge cases.) Tj
+1 0 0 1 66.00 386.00 Tm (? Avoids logical errors, off-by-one issues, and unsafe assumptions.) Tj
+/F2 10 Tf
+1 0 0 1 54.00 356.00 Tm (Score guidance:) Tj
+/F1 10 Tf
+1 0 0 1 66.00 329.00 Tm (? 22-25: Correct solution with robust edge-case handling.) Tj
+1 0 0 1 66.00 313.00 Tm (? 17-21: Mostly correct with minor defects or omissions.) Tj
+1 0 0 1 66.00 297.00 Tm (? 10-16: Partially working solution with meaningful correctness gaps.) Tj
+1 0 0 1 66.00 281.00 Tm (? 0-9: Incomplete or incorrect solution.) Tj
+/F2 13 Tf
+1 0 0 1 54.00 247.00 Tm (4. Code Quality and Maintainability \(15 points\)) Tj
+/F1 10 Tf
+1 0 0 1 66.00 214.00 Tm (? Writes readable, idiomatic code for the chosen language.) Tj
+1 0 0 1 66.00 198.00 Tm (? Uses clear names and simple control flow.) Tj
+1 0 0 1 66.00 182.00 Tm (? Keeps functions focused and avoids unnecessary complexity.) Tj
+/F2 10 Tf
+1 0 0 1 54.00 152.00 Tm (Score guidance:) Tj
+/F1 10 Tf
+1 0 0 1 66.00 125.00 Tm (? 13-15: Clean, idiomatic, easy-to-maintain implementation.) Tj
+1 0 0 1 66.00 109.00 Tm (? 9-12: Understandable code with some style or structure issues.) Tj
+1 0 0 1 66.00 93.00 Tm (? 5-8: Hard-to-follow code, duplicated logic, or weak naming.) Tj
+1 0 0 1 66.00 77.00 Tm (? 0-4: Code is difficult to reason about or maintain.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 2329 >>
+stream
+BT
+/F2 13 Tf
+1 0 0 1 54.00 729.00 Tm (5. Testing and Debugging \(10 points\)) Tj
+/F1 10 Tf
+1 0 0 1 66.00 696.00 Tm (? Tests representative normal cases, boundary cases, and failure cases.) Tj
+1 0 0 1 66.00 680.00 Tm (? Uses manual or automated checks effectively.) Tj
+1 0 0 1 66.00 664.00 Tm (? Debugs issues methodically when results are unexpected.) Tj
+/F2 10 Tf
+1 0 0 1 54.00 634.00 Tm (Score guidance:) Tj
+/F1 10 Tf
+1 0 0 1 66.00 607.00 Tm (? 9-10: Strong test coverage and systematic debugging.) Tj
+1 0 0 1 66.00 591.00 Tm (? 6-8: Tests common cases but misses some important boundaries.) Tj
+1 0 0 1 66.00 575.00 Tm (? 3-5: Minimal testing or relies heavily on interviewer hints.) Tj
+1 0 0 1 66.00 559.00 Tm (? 0-2: Does not test or cannot debug observed failures.) Tj
+/F2 13 Tf
+1 0 0 1 54.00 525.00 Tm (6. Communication and Collaboration \(10 points\)) Tj
+/F1 10 Tf
+1 0 0 1 66.00 492.00 Tm (? Thinks aloud and explains decisions clearly.) Tj
+1 0 0 1 66.00 476.00 Tm (? Responds constructively to hints, questions, and feedback.) Tj
+1 0 0 1 66.00 460.00 Tm (? Balances independent problem solving with collaboration.) Tj
+/F2 10 Tf
+1 0 0 1 54.00 430.00 Tm (Score guidance:) Tj
+/F1 10 Tf
+1 0 0 1 66.00 403.00 Tm (? 9-10: Clear, structured, and collaborative throughout.) Tj
+1 0 0 1 66.00 387.00 Tm (? 6-8: Generally clear with occasional gaps in explanation.) Tj
+1 0 0 1 66.00 371.00 Tm (? 3-5: Limited communication or difficulty incorporating feedback.) Tj
+1 0 0 1 66.00 355.00 Tm (? 0-2: Communication blocks effective evaluation.) Tj
+/F2 13 Tf
+1 0 0 1 54.00 321.00 Tm (7. Follow-up and Complexity Analysis \(5 points\)) Tj
+/F1 10 Tf
+1 0 0 1 66.00 288.00 Tm (? States time and space complexity accurately.) Tj
+1 0 0 1 66.00 272.00 Tm (? Discusses likely bottlenecks and reasonable optimizations.) Tj
+1 0 0 1 66.00 256.00 Tm (? Handles follow-up questions about extensions or constraints.) Tj
+/F2 10 Tf
+1 0 0 1 54.00 226.00 Tm (Score guidance:) Tj
+/F1 10 Tf
+1 0 0 1 66.00 199.00 Tm (? 5: Accurate analysis and strong follow-up discussion.) Tj
+1 0 0 1 66.00 183.00 Tm (? 3-4: Mostly accurate analysis with small omissions.) Tj
+1 0 0 1 66.00 167.00 Tm (? 1-2: Incomplete or incorrect analysis.) Tj
+1 0 0 1 66.00 151.00 Tm (? 0: No meaningful complexity discussion.) Tj
+/F2 16 Tf
+1 0 0 1 54.00 114.00 Tm (Interview Notes) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 1231 >>
+stream
+BT
+/F2 13 Tf
+1 0 0 1 54.00 729.00 Tm (Strengths) Tj
+/F1 10 Tf
+1 0 0 1 66.00 696.00 Tm (?) Tj
+1 0 0 1 66.00 680.00 Tm (?) Tj
+1 0 0 1 66.00 664.00 Tm (?) Tj
+/F2 13 Tf
+1 0 0 1 54.00 630.00 Tm (Concerns) Tj
+/F1 10 Tf
+1 0 0 1 66.00 597.00 Tm (?) Tj
+1 0 0 1 66.00 581.00 Tm (?) Tj
+1 0 0 1 66.00 565.00 Tm (?) Tj
+/F2 13 Tf
+1 0 0 1 54.00 531.00 Tm (Evidence and Examples) Tj
+/F1 10 Tf
+1 0 0 1 66.00 498.00 Tm (?) Tj
+1 0 0 1 66.00 482.00 Tm (?) Tj
+1 0 0 1 66.00 466.00 Tm (?) Tj
+/F2 13 Tf
+1 0 0 1 54.00 432.00 Tm (Follow-up Questions Asked) Tj
+/F1 10 Tf
+1 0 0 1 66.00 399.00 Tm (?) Tj
+1 0 0 1 66.00 383.00 Tm (?) Tj
+1 0 0 1 66.00 367.00 Tm (?) Tj
+/F2 13 Tf
+1 0 0 1 54.00 333.00 Tm (Candidate Questions) Tj
+/F1 10 Tf
+1 0 0 1 66.00 300.00 Tm (?) Tj
+1 0 0 1 66.00 284.00 Tm (?) Tj
+1 0 0 1 66.00 268.00 Tm (?) Tj
+/F2 16 Tf
+1 0 0 1 54.00 231.00 Tm (Recommendation Rationale) Tj
+/F1 10 Tf
+1 0 0 1 54.00 193.00 Tm (Summarize the decision using observable evidence from the interview. Note any) Tj
+1 0 0 1 54.00 176.00 Tm (role-specific considerations, signal strength, and areas where more evaluation) Tj
+1 0 0 1 54.00 159.00 Tm (would be useful.) Tj
+/F2 10 Tf
+1 0 0 1 54.00 128.00 Tm (Recommendation:) Tj
+1 0 0 1 54.00 97.00 Tm (Rationale:) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 3 0 R >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 5 0 R >>
+endobj
+10 0 obj
+<< /Type /Page /Parent 11 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+11 0 obj
+<< /Type /Pages /Kids [7 0 R 8 0 R 9 0 R 10 0 R] /Count 4 >>
+endobj
+12 0 obj
+<< /Type /Catalog /Pages 11 0 R >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000160 00000 n 
+0000002084 00000 n 
+0000004867 00000 n 
+0000007248 00000 n 
+0000008531 00000 n 
+0000008668 00000 n 
+0000008805 00000 n 
+0000008942 00000 n 
+0000009080 00000 n 
+0000009157 00000 n 
+trailer
+<< /Size 13 /Root 12 0 R >>
+startxref
+9208
+%%EOF
